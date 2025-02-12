@@ -21,3 +21,8 @@ This repository contains scripts and workflow details from my **published resear
 - **AutoDock**: Ligand-protein docking
 - **GROMACS**: Molecular dynamics simulation
 - **PyMOL**: 3D visualization of protein-ligand complexes
+
+## 📄 **Publication**
+This work is published in:  
+📌 **[PLOS ONE]** (DOI: [[(https://doi.org/10.1371/journal.pone.0287864)]])  
+For full details, please refer to the **published paper**.
